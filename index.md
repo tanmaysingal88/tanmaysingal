@@ -24,4 +24,4 @@
 ## 📄 CV
 
 You can view my CV here:  
-[**Download CV (PDF)**](CV_TS_Sept_2025.pdf){:target="_blank"}
+[**Download CV (PDF)**](CV_TS_Sept_2025.pdf)
