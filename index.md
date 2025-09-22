@@ -1,14 +1,11 @@
-# 👋 Hi, I’m [Your Name]
+# Tanmay Singal
 
-Welcome to my GitHub Page!  
-This is where I share my projects, research, and ideas.
 
 ---
 
 ## 🔹 About Me
 - 🎓 Postdoctoral researcher at the University of Cologne  
-- 🔬 Research areas: Quantum computing, cryptography, AI  
-- 🌍 Expat from Poland living in Germany  
+- 🔬 Research areas: Quantum computing.
 - 🇮🇳 Indian citizen, learning German 🇩🇪  
 
 ---
