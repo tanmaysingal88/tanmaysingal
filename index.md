@@ -18,6 +18,10 @@
 ---
 
 ## 🔹 Contact
-- 📂 [GitHub](https://github.com/yourusername)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)  
-- ✉️ Email: your.email@example.com
+- 📂 [GitHub](https://github.com/yourusername)
+- ✉️ Email: tanmaysingal(at)gmail(dot)com
+
+## 📄 CV
+
+You can view my CV here:  
+[**Download CV (PDF)**](CV_TS_Sept_2025.pdf){:target="_blank"}
