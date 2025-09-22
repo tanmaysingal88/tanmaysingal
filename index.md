@@ -10,9 +10,9 @@
 
 ---
 
-## 🔹 Projects
-- [Quantum Project 1](https://github.com/yourusername/project1) – A cool project on quantum algorithms  
-- [Crypto Project 2](https://github.com/yourusername/project2) – Some work in cryptography  
+## 🔹 Research and interests
+- Mathematical aspects of quantum computing
+-
 - [Other Projects](https://github.com/yourusername?tab=repositories)
 
 ---
